@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25064
+25065
 1
 19
 Behaviors\0_Master.hkx
@@ -33847,6 +33847,13 @@ SkydivingLeftFast
 0
 0
 
+SkydivingAccelerate
+1666
+1
+0
+0
+0
+
 DLC01TrailerWalkForward
 623
 1
@@ -33856,7 +33863,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12714
+12715
 100
 1.2
 1
@@ -46624,6 +46631,13 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1666
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -46631,7 +46645,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25055
+25056
 1
 19
 Behaviors\0_Master.hkx
@@ -71740,6 +71754,13 @@ SkydivingLeftFast
 0
 0
 
+SkydivingAccelerate
+1666
+1
+0
+0
+0
+
 DLC01TrailerWalkForward
 623
 1
@@ -71749,7 +71770,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12751
+12752
 100
 1.2
 1
@@ -84548,6 +84569,13 @@ IdleStop:8.66067
 0 0 0 0 1
 
 1665
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1666
 3.9
 1
 0 0 0 0
