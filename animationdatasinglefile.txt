@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25065
+25066
 1
 19
 Behaviors\0_Master.hkx
@@ -33854,6 +33854,13 @@ SkydivingAccelerate
 0
 0
 
+SkydivingDodge
+1667
+1
+0
+0
+0
+
 DLC01TrailerWalkForward
 623
 1
@@ -33863,7 +33870,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12715
+12716
 100
 1.2
 1
@@ -46638,6 +46645,13 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1667
+0.87
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -46645,7 +46659,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25056
+25051
 1
 19
 Behaviors\0_Master.hkx
@@ -71761,6 +71775,13 @@ SkydivingAccelerate
 0
 0
 
+SkydivingDodge
+1667
+1
+0
+0
+0
+
 DLC01TrailerWalkForward
 623
 1
@@ -71770,7 +71791,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12752
+12753
 100
 1.2
 1
@@ -84582,6 +84603,13 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1667
+0.87
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -84589,7 +84617,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-13940
+13952
 1
 17
 Behaviors\0_Master.hkx
@@ -98507,6 +98535,92 @@ IdleDLC02FallOnKneesLoop
 0
 0
 
+MT_FallingArtIntro
+868
+1
+0
+0
+1
+FallArtIntroOut:0.9
+
+MT_FallingArtLoop
+869
+1
+0
+0
+0
+
+SkydivingForward
+870
+1
+0
+0
+0
+
+SkydivingForwardFast
+871
+1
+0
+0
+0
+
+SkydivingRight
+872
+1
+0
+0
+0
+
+SkydivingRightFast
+873
+1
+0
+0
+0
+
+SkydivingBackward
+874
+1
+0
+0
+0
+
+SkydivingBackwardFast
+875
+1
+0
+0
+0
+
+SkydivingLeft
+876
+1
+0
+0
+0
+
+SkydivingLeftFast
+878
+1
+0
+0
+0
+
+SkydivingAccelerate
+879
+1
+0
+0
+0
+
+SkydivingDodge
+880
+1
+0
+0
+1
+FallDodgeEnd:0.87
+
 IdleDLC02BoatRide
 400
 1
@@ -98530,7 +98644,7 @@ SoundPlay.QSTDLC2BoatArrivalCreakC01:35.841
 SoundPlay.QSTDLC2BoatArrivalCreakB04:40.87
 IdleStop:41.6667
 
-5963
+5975
 104
 4
 1
@@ -104486,6 +104600,91 @@ IdleStop:41.6667
 0.8 4.53895 -10.3398 0
 1
 0.8 0 0 0 1
+
+869
+0.9
+1
+0.9 0 0 0
+1
+0.9 0 0 0 1
+
+870
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+871
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+872
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+873
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+874
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+875
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+876
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+877
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+878
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+879
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+880
+0.87
+2
+0 0 0 0
+0.333333 0 500 0
+1
+0 0 0 0 1
 
 863
 0.333333
