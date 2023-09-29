@@ -8729,7 +8729,7 @@ FootBack:0.333333
 1
 0.4 0 0 0 1
 
-25056
+25064
 1
 19
 Behaviors\0_Master.hkx
@@ -33791,6 +33791,62 @@ MT_FallingArtLoop
 1
 JumpLand:3.5
 
+SkydivingForward
+1658
+1
+0
+0
+0
+
+SkydivingForwardFast
+1659
+1
+0
+0
+0
+
+SkydivingRight
+1660
+1
+0
+0
+0
+
+SkydivingRightFast
+1661
+1
+0
+0
+0
+
+SkydivingBackward
+1662
+1
+0
+0
+0
+
+SkydivingBackwardFast
+1663
+1
+0
+0
+0
+
+SkydivingLeft
+1664
+1
+0
+0
+0
+
+SkydivingLeftFast
+1665
+1
+0
+0
+0
+				
 DLC01TrailerWalkForward
 623
 1
@@ -33800,7 +33856,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12706
+12714
 100
 1.2
 1
@@ -46512,6 +46568,62 @@ IdleStop:8.66067
 1
 0 0 0 0 1
 
+1658
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1659
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1660
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1661
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1662
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1663
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1664
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1665
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
 1399
 0.8
 1
@@ -46519,7 +46631,7 @@ IdleStop:8.66067
 1
 0.8 0 0 0 1
 
-25047
+25055
 1
 19
 Behaviors\0_Master.hkx
@@ -71572,6 +71684,62 @@ MT_FallingArtLoop
 1
 JumpLand:3.5
 
+SkydivingForward
+1658
+1
+0
+0
+0
+
+SkydivingForwardFast
+1659
+1
+0
+0
+0
+
+SkydivingRight
+1660
+1
+0
+0
+0
+
+SkydivingRightFast
+1661
+1
+0
+0
+0
+
+SkydivingBackward
+1662
+1
+0
+0
+0
+
+SkydivingBackwardFast
+1663
+1
+0
+0
+0
+
+SkydivingLeft
+1664
+1
+0
+0
+0
+
+SkydivingLeftFast
+1665
+1
+0
+0
+0
+
 DLC01TrailerWalkForward
 623
 1
@@ -71581,7 +71749,7 @@ DLC01TrailerWalkForward
 AnimObjectUnequip:6.5
 IdleStop:8.66067
 
-12743
+12751
 100
 1.2
 1
@@ -84324,6 +84492,62 @@ IdleStop:8.66067
 0.9 0 0 0 1
 
 1657
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1658
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1659
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1660
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1661
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1662
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1663
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1664
+3.9
+1
+0 0 0 0
+1
+0 0 0 0 1
+
+1665
 3.9
 1
 0 0 0 0

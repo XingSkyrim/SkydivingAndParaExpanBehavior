@@ -23,7 +23,7 @@
 			<!-- referenceCount SERIALIZE_IGNORED -->
 			<hkparam name="deformableSkinNames" numelements="0"></hkparam>
 			<hkparam name="rigidSkinNames" numelements="0"></hkparam>
-			<hkparam name="animationNames" numelements="1658">
+			<hkparam name="animationNames" numelements="1666">
 				<hkcstring>Animations\1HM_1stP_Run.hkx</hkcstring>
 				<hkcstring>Animations\1hm_1stP_Walk.hkx</hkcstring>
 				<hkcstring>Animations\1HM_AttackForwardSprint.hkx</hkcstring>
@@ -1682,6 +1682,14 @@
 				<hkcstring>Animations\WW_Stage9.hkx</hkcstring>
 				<hkcstring>Animations\Xing\MT_FallingArtIntro.hkx</hkcstring>
 				<hkcstring>Animations\Xing\MT_FallingArtLoop.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_Forward.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_ForwardFast.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_Right.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_RightFast.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_Backward.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_BackwardFast.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_Left.hkx</hkcstring>
+				<hkcstring>Animations\Xing\Skydiving_LeftFast.hkx</hkcstring>
 			</hkparam>
 			<hkparam name="animationFilenames" numelements="0"></hkparam>
 			<hkparam name="characterPropertyNames" numelements="39">
